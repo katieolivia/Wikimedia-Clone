@@ -1,0 +1,62 @@
+.container {
+	width:100%;
+	text-align: justify;
+
+	
+}
+
+.opener {
+	margin: 0px auto;
+	
+	width: 70%;
+
+}
+.opener p {
+	font-size: 150%;
+	font-family: sans-serif;
+}
+.message {
+	text-align: right;
+}
+
+
+.icons{
+	margin: 0px auto;
+	width: 70%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+
+
+}
+
+.icons a img {
+	width: 150px;
+	height: 150px;
+	margin:25px;
+}
+
+footer {
+	width: 50%;
+	margin: 0px auto;
+	border-top: 2px solid gray;
+	
+}
+
+footer p {
+	font-size: 13px;
+	text-align: center;
+}
+
+.bottom {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+
+.bottom p {
+	padding: 20px;
+	color: blue;
+}
